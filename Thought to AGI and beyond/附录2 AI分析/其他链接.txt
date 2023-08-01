@@ -1,0 +1,5 @@
+MusicLM：从文本生成音乐 https://google-research.github.io/seanet/musiclm/examples/
+https://www.youtube.com/watch?v=2CUKU2iAzAs
+
+Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications
+https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/?ref=emergentmind

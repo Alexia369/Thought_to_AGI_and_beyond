@@ -1,0 +1,9 @@
+AlphaGo
+Transformers
+Word2vec(将文字转换成向量)
+Wavenet(声音生成)
+AlphaFold(预测蛋白质)
+Sequence to sequence model(decoder encoder)
+Distillation(应用于移动端)
+Deep reinforcement learning 
+

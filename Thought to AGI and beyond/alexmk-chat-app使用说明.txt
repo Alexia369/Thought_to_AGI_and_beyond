@@ -1,0 +1,4 @@
+1、在openAI官网申请免费api-key账号 网址：https://platform.openai.com/account/api-keys 
+（注:如果你的ChatGPT用的是微软账号，得到的免费额度会更高）
+2、拿到账号之后，打开Chat网站 网址：https://chat-gpt-next-5fed2a8wq-alexxmk.vercel.app/
+3、在左下角打开设置，填写自己的key即可使用，同时可以将模型改为GPT-4
